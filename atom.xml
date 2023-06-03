@@ -3,18 +3,18 @@
   <title></title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://strange-id.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://strange-id.github.io/"/>
   <updated>2023-04-08T04:39:06.000Z</updated>
-  <id>http://example.com/</id>
+  <id>http://strange-id.github.io/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>微软商店打不开代码:0x80131500</title>
-    <link href="http://example.com/post/%E5%BE%AE%E8%BD%AF%E5%95%86%E5%BA%97%E6%89%93%E4%B8%8D%E5%BC%80%E4%BB%A3%E7%A0%81-0x80131500.html"/>
-    <id>http://example.com/post/%E5%BE%AE%E8%BD%AF%E5%95%86%E5%BA%97%E6%89%93%E4%B8%8D%E5%BC%80%E4%BB%A3%E7%A0%81-0x80131500.html</id>
+    <link href="http://strange-id.github.io/post/%E5%BE%AE%E8%BD%AF%E5%95%86%E5%BA%97%E6%89%93%E4%B8%8D%E5%BC%80%E4%BB%A3%E7%A0%81-0x80131500.html"/>
+    <id>http://strange-id.github.io/post/%E5%BE%AE%E8%BD%AF%E5%95%86%E5%BA%97%E6%89%93%E4%B8%8D%E5%BC%80%E4%BB%A3%E7%A0%81-0x80131500.html</id>
     <published>2023-04-08T04:34:22.000Z</published>
     <updated>2023-04-08T04:39:06.000Z</updated>
     
@@ -29,17 +29,17 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
     <title>如龙0 通关感想</title>
-    <link href="http://example.com/post/%E5%A6%82%E9%BE%990-%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html"/>
-    <id>http://example.com/post/%E5%A6%82%E9%BE%990-%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html</id>
+    <link href="http://strange-id.github.io/post/%E5%A6%82%E9%BE%990-%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html"/>
+    <id>http://strange-id.github.io/post/%E5%A6%82%E9%BE%990-%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html</id>
     <published>2023-04-07T15:06:57.000Z</published>
     <updated>2023-04-07T15:27:00.000Z</updated>
     
@@ -54,17 +54,17 @@
     
     
     
-    <category term="游戏相关" scheme="http://example.com/categories/%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3/"/>
+    <category term="游戏相关" scheme="http://strange-id.github.io/categories/%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="通关感想" scheme="http://example.com/tags/%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/"/>
+    <category term="通关感想" scheme="http://strange-id.github.io/tags/%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>试用Typst写论文</title>
-    <link href="http://example.com/post/%E8%AF%95%E7%94%A8Typst%E5%86%99%E8%AE%BA%E6%96%87.html"/>
-    <id>http://example.com/post/%E8%AF%95%E7%94%A8Typst%E5%86%99%E8%AE%BA%E6%96%87.html</id>
+    <link href="http://strange-id.github.io/post/%E8%AF%95%E7%94%A8Typst%E5%86%99%E8%AE%BA%E6%96%87.html"/>
+    <id>http://strange-id.github.io/post/%E8%AF%95%E7%94%A8Typst%E5%86%99%E8%AE%BA%E6%96%87.html</id>
     <published>2023-04-07T07:46:51.000Z</published>
     <updated>2023-04-07T08:34:58.000Z</updated>
     
@@ -79,19 +79,19 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
-    <category term="Typst" scheme="http://example.com/tags/Typst/"/>
+    <category term="Typst" scheme="http://strange-id.github.io/tags/Typst/"/>
     
   </entry>
   
   <entry>
     <title>java学习日记（三）</title>
-    <link href="http://example.com/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89.html"/>
-    <id>http://example.com/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89.html</id>
+    <link href="http://strange-id.github.io/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89.html"/>
+    <id>http://strange-id.github.io/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%89%EF%BC%89.html</id>
     <published>2023-03-16T11:06:56.000Z</published>
     <updated>2023-03-22T08:00:24.000Z</updated>
     
@@ -107,17 +107,17 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="java" scheme="http://example.com/tags/java/"/>
+    <category term="java" scheme="http://strange-id.github.io/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>配置python环境记录</title>
-    <link href="http://example.com/post/%E9%85%8D%E7%BD%AEpython%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95.html"/>
-    <id>http://example.com/post/%E9%85%8D%E7%BD%AEpython%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95.html</id>
+    <link href="http://strange-id.github.io/post/%E9%85%8D%E7%BD%AEpython%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95.html"/>
+    <id>http://strange-id.github.io/post/%E9%85%8D%E7%BD%AEpython%E7%8E%AF%E5%A2%83%E8%AE%B0%E5%BD%95.html</id>
     <published>2023-03-08T08:34:44.000Z</published>
     <updated>2023-03-16T12:10:52.000Z</updated>
     
@@ -131,19 +131,19 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
-    <category term="python" scheme="http://example.com/tags/python/"/>
+    <category term="python" scheme="http://strange-id.github.io/tags/python/"/>
     
   </entry>
   
   <entry>
     <title>OMORI 通关感想</title>
-    <link href="http://example.com/post/OMORI%20%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html"/>
-    <id>http://example.com/post/OMORI%20%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html</id>
+    <link href="http://strange-id.github.io/post/OMORI%20%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html"/>
+    <id>http://strange-id.github.io/post/OMORI%20%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3.html</id>
     <published>2023-03-07T01:00:23.000Z</published>
     <updated>2023-04-07T08:35:48.000Z</updated>
     
@@ -158,17 +158,17 @@
     
     
     
-    <category term="游戏相关" scheme="http://example.com/categories/%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3/"/>
+    <category term="游戏相关" scheme="http://strange-id.github.io/categories/%E6%B8%B8%E6%88%8F%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="通关感想" scheme="http://example.com/tags/%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/"/>
+    <category term="通关感想" scheme="http://strange-id.github.io/tags/%E9%80%9A%E5%85%B3%E6%84%9F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>java学习日记（二）</title>
-    <link href="http://example.com/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89.html"/>
-    <id>http://example.com/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89.html</id>
+    <link href="http://strange-id.github.io/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89.html"/>
+    <id>http://strange-id.github.io/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%BA%8C%EF%BC%89.html</id>
     <published>2023-03-01T12:27:39.000Z</published>
     <updated>2023-03-16T11:07:48.000Z</updated>
     
@@ -183,17 +183,17 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="java" scheme="http://example.com/tags/java/"/>
+    <category term="java" scheme="http://strange-id.github.io/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>基于Cartpole-V1环境的PPO算法测试（二）</title>
-    <link href="http://example.com/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%BA%8C%EF%BC%89.html"/>
-    <id>http://example.com/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%BA%8C%EF%BC%89.html</id>
+    <link href="http://strange-id.github.io/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%BA%8C%EF%BC%89.html"/>
+    <id>http://strange-id.github.io/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%BA%8C%EF%BC%89.html</id>
     <published>2023-03-01T08:36:13.000Z</published>
     <updated>2023-03-01T09:05:50.000Z</updated>
     
@@ -208,19 +208,19 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="强化学习" scheme="http://example.com/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/"/>
+    <category term="强化学习" scheme="http://strange-id.github.io/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="PPO" scheme="http://example.com/tags/PPO/"/>
+    <category term="PPO" scheme="http://strange-id.github.io/tags/PPO/"/>
     
   </entry>
   
   <entry>
     <title>基于Cartpole-V1环境的PPO算法测试（一）</title>
-    <link href="http://example.com/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%B8%80%EF%BC%89.html"/>
-    <id>http://example.com/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%B8%80%EF%BC%89.html</id>
+    <link href="http://strange-id.github.io/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%B8%80%EF%BC%89.html"/>
+    <id>http://strange-id.github.io/post/%E5%9F%BA%E4%BA%8ECartpole-V1%E7%8E%AF%E5%A2%83%E7%9A%84PPO%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%EF%BC%88%E4%B8%80%EF%BC%89.html</id>
     <published>2023-02-28T02:29:37.000Z</published>
     <updated>2023-02-28T05:16:12.000Z</updated>
     
@@ -235,19 +235,19 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="强化学习" scheme="http://example.com/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/"/>
+    <category term="强化学习" scheme="http://strange-id.github.io/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="PPO" scheme="http://example.com/tags/PPO/"/>
+    <category term="PPO" scheme="http://strange-id.github.io/tags/PPO/"/>
     
   </entry>
   
   <entry>
     <title>Streaming+直播录制</title>
-    <link href="http://example.com/post/Streaming%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6.html"/>
-    <id>http://example.com/post/Streaming%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6.html</id>
+    <link href="http://strange-id.github.io/post/Streaming%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6.html"/>
+    <id>http://strange-id.github.io/post/Streaming%E7%9B%B4%E6%92%AD%E5%BD%95%E5%88%B6.html</id>
     <published>2023-02-25T14:40:47.000Z</published>
     <updated>2023-02-28T03:17:10.000Z</updated>
     
@@ -258,17 +258,17 @@
     
     
     
-    <category term="在坑底招手" scheme="http://example.com/categories/%E5%9C%A8%E5%9D%91%E5%BA%95%E6%8B%9B%E6%89%8B/"/>
+    <category term="在坑底招手" scheme="http://strange-id.github.io/categories/%E5%9C%A8%E5%9D%91%E5%BA%95%E6%8B%9B%E6%89%8B/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
     <title>自定义hexo new生成的文章布局</title>
-    <link href="http://example.com/post/%E8%87%AA%E5%AE%9A%E4%B9%89hexo%20new%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E7%AB%A0%E5%B8%83%E5%B1%80.html"/>
-    <id>http://example.com/post/%E8%87%AA%E5%AE%9A%E4%B9%89hexo%20new%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E7%AB%A0%E5%B8%83%E5%B1%80.html</id>
+    <link href="http://strange-id.github.io/post/%E8%87%AA%E5%AE%9A%E4%B9%89hexo%20new%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E7%AB%A0%E5%B8%83%E5%B1%80.html"/>
+    <id>http://strange-id.github.io/post/%E8%87%AA%E5%AE%9A%E4%B9%89hexo%20new%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E7%AB%A0%E5%B8%83%E5%B1%80.html</id>
     <published>2023-02-24T11:25:12.000Z</published>
     <updated>2023-02-26T04:35:24.000Z</updated>
     
@@ -283,19 +283,19 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="http://strange-id.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>配置环境变量</title>
-    <link href="http://example.com/post/%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.html"/>
-    <id>http://example.com/post/%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.html</id>
+    <link href="http://strange-id.github.io/post/%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.html"/>
+    <id>http://strange-id.github.io/post/%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F.html</id>
     <published>2023-02-24T06:30:13.000Z</published>
     <updated>2023-02-26T04:35:34.000Z</updated>
     
@@ -311,17 +311,17 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
     <title>java学习日记（一）</title>
-    <link href="http://example.com/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89.html"/>
-    <id>http://example.com/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89.html</id>
+    <link href="http://strange-id.github.io/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89.html"/>
+    <id>http://strange-id.github.io/post/java%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89.html</id>
     <published>2023-02-24T06:16:40.000Z</published>
     <updated>2023-03-01T12:28:34.000Z</updated>
     
@@ -336,17 +336,17 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="java" scheme="http://example.com/tags/java/"/>
+    <category term="java" scheme="http://strange-id.github.io/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>补战姬绝笑时要小心</title>
-    <link href="http://example.com/post/%E8%A1%A5%E6%88%98%E5%A7%AC%E7%BB%9D%E7%AC%91%E6%97%B6%E8%A6%81%E5%B0%8F%E5%BF%83.html"/>
-    <id>http://example.com/post/%E8%A1%A5%E6%88%98%E5%A7%AC%E7%BB%9D%E7%AC%91%E6%97%B6%E8%A6%81%E5%B0%8F%E5%BF%83.html</id>
+    <link href="http://strange-id.github.io/post/%E8%A1%A5%E6%88%98%E5%A7%AC%E7%BB%9D%E7%AC%91%E6%97%B6%E8%A6%81%E5%B0%8F%E5%BF%83.html"/>
+    <id>http://strange-id.github.io/post/%E8%A1%A5%E6%88%98%E5%A7%AC%E7%BB%9D%E7%AC%91%E6%97%B6%E8%A6%81%E5%B0%8F%E5%BF%83.html</id>
     <published>2023-02-23T14:31:22.000Z</published>
     <updated>2023-02-24T11:56:50.000Z</updated>
     
@@ -362,40 +362,17 @@
     
     
     
-    <category term="日常随记" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/"/>
+    <category term="日常随记" scheme="http://strange-id.github.io/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/"/>
     
     
-    <category term="战姬绝唱" scheme="http://example.com/tags/%E6%88%98%E5%A7%AC%E7%BB%9D%E5%94%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大四学生现状</title>
-    <link href="http://example.com/post/%E5%A4%A7%E5%9B%9B%E5%AD%A6%E7%94%9F%E7%8E%B0%E7%8A%B6.html"/>
-    <id>http://example.com/post/%E5%A4%A7%E5%9B%9B%E5%AD%A6%E7%94%9F%E7%8E%B0%E7%8A%B6.html</id>
-    <published>2023-02-21T14:11:01.000Z</published>
-    <updated>2023-02-28T03:17:32.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>记一次惨烈的运动控制系统课设：</p><p><img src="https://cdn.jsdelivr.net/gh/strange-id/img@master/202302212227564.png"><br><img src="https://cdn.jsdelivr.net/gh/strange-id/img@master/202302212226600.png"><br><img src="https://cdn.jsdelivr.net/gh/strange-id/img@master/202302212225083.png"><br><img src="https://cdn.jsdelivr.net/gh/strange-id/img@master/202302212229558.png"></p><p>现在明天要验收了，你说怎么办吧</p><hr><p>2023-02-22下午验收结束更新</p><p>真绷不住了，嫖了一个模型，嫖了一个ppt，嫖了一个报告，就过了？</p><p>一开始说必须要纸质报告，没要；要NI系统上跑通，没要；提问倒是提了：考研？保研？找工作？为什么公式不用手敲？这个东西做了几天？给你92分可以吗？</p><p>我白焦虑了，我早想到大四最后的课设不可能让任何人挂科，但还是没想到能过得这么轻松。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;记一次惨烈的运动控制系统课设：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/strange-id/img@master/202302212227564.png&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://cdn.jsdeliv</summary>
-      
-    
-    
-    
-    <category term="日常随记" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8%E9%9A%8F%E8%AE%B0/"/>
-    
+    <category term="战姬绝唱" scheme="http://strange-id.github.io/tags/%E6%88%98%E5%A7%AC%E7%BB%9D%E5%94%B1/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客本地预览和github网页不同</title>
-    <link href="http://example.com/post/hexo%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%9C%B0%E9%A2%84%E8%A7%88%E5%92%8Cgithub%E7%BD%91%E9%A1%B5%E4%B8%8D%E5%90%8C.html"/>
-    <id>http://example.com/post/hexo%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%9C%B0%E9%A2%84%E8%A7%88%E5%92%8Cgithub%E7%BD%91%E9%A1%B5%E4%B8%8D%E5%90%8C.html</id>
+    <link href="http://strange-id.github.io/post/hexo%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%9C%B0%E9%A2%84%E8%A7%88%E5%92%8Cgithub%E7%BD%91%E9%A1%B5%E4%B8%8D%E5%90%8C.html"/>
+    <id>http://strange-id.github.io/post/hexo%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%9C%B0%E9%A2%84%E8%A7%88%E5%92%8Cgithub%E7%BD%91%E9%A1%B5%E4%B8%8D%E5%90%8C.html</id>
     <published>2023-02-21T08:22:48.000Z</published>
     <updated>2023-02-26T04:35:16.000Z</updated>
     
@@ -410,45 +387,19 @@
     
     
     
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    <category term="学习记录" scheme="http://strange-id.github.io/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>师兄毕业论文读后总结</title>
-    <link href="http://example.com/post/%E5%B8%88%E5%85%84%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%AF%BB%E5%90%8E%E6%80%BB%E7%BB%93.html"/>
-    <id>http://example.com/post/%E5%B8%88%E5%85%84%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%AF%BB%E5%90%8E%E6%80%BB%E7%BB%93.html</id>
-    <published>2023-02-21T08:06:28.000Z</published>
-    <updated>2023-02-26T04:35:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="论文题目：基于OODA环的作战体系对抗博弈建模研究"><a href="#论文题目：基于OODA环的作战体系对抗博弈建模研究" class="headerlink" title="论文题目：基于OODA环的作战体系对抗博弈建模研究"></a>论文题目：基于OODA环的作战体系对抗博弈建模研究</h1><h2 id="一、在干嘛？"><a href="#一、在干嘛？" class="headerlink" title="一、在干嘛？"></a>一、在干嘛？</h2><ol><li>分析基于 OODA 环的体系作战行为，设计博弈模型中参与人的战略选择；</li><li>如何对参与人的战略选择所导致的博弈结果进行描述:模型。对博弈结果进行评估:评估函数；</li><li>对所建立的战略式博弈模型进行求解:用$\varepsilon$-Nash均衡 替代 Nash 均衡作为所建博弈模型的解，并应用<strong>虚拟博弈算法</strong> 的对所建战略式博弈模型进行求解</li></ol><h2 id="二、解释一下"><a href="#二、解释一下" class="headerlink" title="二、解释一下"></a>二、解释一下</h2><h3 id="1-OODA环"><a href="#1-OODA环" class="headerlink" title="1. OODA环"></a>1. OODA环</h3><p><img src="https://cdn.jsdelivr.net/gh/strange-id/img@master/202302212017227.png" alt="OODA环"><br>用网络描述作战体系：</p><ol><li>作战单位-&gt;网络的节点</li><li>作战体系-&gt;OODA环</li><li>信息流、能量流-&gt;有向边</li></ol><h3 id="2-博弈模型"><a href="#2-博弈模型" class="headerlink" title="2. 博弈模型"></a>2. 博弈模型</h3><h4 id="1-用战略式博弈"><a href="#1-用战略式博弈" class="headerlink" title="1. 用战略式博弈"></a>1. 用战略式博弈</h4><h4 id="2-基于OODA环的体系作战计划（战略）P："><a href="#2-基于OODA环的体系作战计划（战略）P：" class="headerlink" title="2. 基于OODA环的体系作战计划（战略）P："></a>2. 基于OODA环的体系作战计划（战略）P：</h4><ol><li>打击计划：<ol><li>打击目标</li><li>打击顺序</li></ol></li><li>部署策略（让谁去打？）</li></ol><h4 id="3-结果描述"><a href="#3-结果描述" class="headerlink" title="3. 结果描述"></a>3. 结果描述</h4><p>装备完整度v：血条百分比&#x3D;打之后的能力评估值&#x2F;打之前的能力评估值<br>三种策略下的评估函数u：</p><ol><li>采取进攻策略时：只看敌方血条</li><li>采取防守策略时：只看自己血条，函数同上</li><li>采用攻守兼备策略：<ol><li>任务完成度<br>  敌方被打击程度</li><li>损失和损失比<br> 损失：对战成本<br>  损失比：谁亏的多</li><li>通过设定任务完成度和损失（或损失比）的权重，并计算加权和得到作战体系i的效用值。</li></ol></li></ol><p>得到了基于 OODA 环的作战体系对抗博弈模型：参与人、战略、支付（效用函数）  </p><h4 id="4-求解"><a href="#4-求解" class="headerlink" title="4. 求解"></a>4. 求解</h4><p>结果导出、体系作战计划的随机应变规则及博弈模型均衡的求解</p><ol><li>结果导出<ol><li>作战效能评估（节点效能计算）<br> 己方各类节点完成作战任务的概率（或效能值）的乘积</li><li>OODA循环时间<br> 加和</li></ol></li><li>随机应变<br> 规则：对于作战计划中的任一打击任务，如果为其所配置的资源不能满足作战要求，则从其它可用资源中选择一个满足作战要求的；如果其它可用资源中没有满足作战要求的，则停止该打击任务。</li><li>求解  <ol><li>任意一个有限的战略式博弈，至少存在一个Nash均衡。所以可以解</li><li>基于虚拟博弈的 Nash 均衡求解<br>计算复杂，所以引入虚拟博弈。</li></ol></li></ol><h4 id="5-仿真"><a href="#5-仿真" class="headerlink" title="5. 仿真"></a>5. 仿真</h4>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;论文题目：基于OODA环的作战体系对抗博弈建模研究&quot;&gt;&lt;a href=&quot;#论文题目：基于OODA环的作战体系对抗博弈建模研究&quot; class=&quot;headerlink&quot; title=&quot;论文题目：基于OODA环的作战体系对抗博弈建模研究&quot;&gt;&lt;/a&gt;论文题目：基于OODA</summary>
-      
-    
-    
-    
-    <category term="学习记录" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="强化学习" scheme="http://example.com/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="博弈论" scheme="http://example.com/tags/%E5%8D%9A%E5%BC%88%E8%AE%BA/"/>
+    <category term="hexo" scheme="http://strange-id.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>響hibiki广播录制</title>
-    <link href="http://example.com/post/%E9%9F%BFhibiki%E5%B9%BF%E6%92%AD%E5%BD%95%E5%88%B6.html"/>
-    <id>http://example.com/post/%E9%9F%BFhibiki%E5%B9%BF%E6%92%AD%E5%BD%95%E5%88%B6.html</id>
+    <link href="http://strange-id.github.io/post/%E9%9F%BFhibiki%E5%B9%BF%E6%92%AD%E5%BD%95%E5%88%B6.html"/>
+    <id>http://strange-id.github.io/post/%E9%9F%BFhibiki%E5%B9%BF%E6%92%AD%E5%BD%95%E5%88%B6.html</id>
     <published>2023-02-21T07:52:38.000Z</published>
     <updated>2023-04-07T10:32:20.000Z</updated>
     
@@ -462,10 +413,10 @@
     
     
     
-    <category term="在坑底招手" scheme="http://example.com/categories/%E5%9C%A8%E5%9D%91%E5%BA%95%E6%8B%9B%E6%89%8B/"/>
+    <category term="在坑底招手" scheme="http://strange-id.github.io/categories/%E5%9C%A8%E5%9D%91%E5%BA%95%E6%8B%9B%E6%89%8B/"/>
     
     
-    <category term="小技巧" scheme="http://example.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="http://strange-id.github.io/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
