@@ -419,9 +419,9 @@
     <link href="http://strange-id.github.io/post/hexo%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%9C%B0%E9%A2%84%E8%A7%88%E5%92%8Cgithub%E7%BD%91%E9%A1%B5%E4%B8%8D%E5%90%8C.html"/>
     <id>http://strange-id.github.io/post/hexo%E5%8D%9A%E5%AE%A2%E6%9C%AC%E5%9C%B0%E9%A2%84%E8%A7%88%E5%92%8Cgithub%E7%BD%91%E9%A1%B5%E4%B8%8D%E5%90%8C.html</id>
     <published>2023-02-21T08:22:48.000Z</published>
-    <updated>2023-02-26T04:35:16.000Z</updated>
+    <updated>2023-07-18T12:56:39.130Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="一、问题描述"><a href="#一、问题描述" class="headerlink" title="一、问题描述"></a>一、问题描述</h1><p>修改hexo博客文章标签和分类后，本地预览可以正常显示，上传至github后无法显示</p><h1 id="二、解决方案"><a href="#二、解决方案" class="headerlink" title="二、解决方案"></a>二、解决方案</h1><p>需强制刷新浏览器缓存，Shift+F5刷新，才能显示修改后的新界面</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="一、问题描述"><a href="#一、问题描述" class="headerlink" title="一、问题描述"></a>一、问题描述</h1><p>修改hexo博客文章标签和分类后，本地预览可以正常显示，上传至github后无法显示</p><h1 id="二、解决方案"><a href="#二、解决方案" class="headerlink" title="二、解决方案"></a>二、解决方案</h1><p>需强制刷新浏览器缓存，Shift+F5刷新，才能显示修改后的新界面</p><hr><h1 id="2023-7-18出现新问题"><a href="#2023-7-18出现新问题" class="headerlink" title="2023.7.18出现新问题"></a>2023.7.18出现新问题</h1><p>本地预览正常，网页首页预览可以看到部分文章，点进页面无法显示文章内容。</p><p>发现是文章标题和文件名称不一样，改掉就好了。</p><p>用<code>hexo n</code>新建文件的时候自动把标题里的<code>#</code>改成<code>-</code>了，还得专门改一次文件名。</p>]]></content>
     
     
       
